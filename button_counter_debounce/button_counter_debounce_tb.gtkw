@@ -1,0 +1,28 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Tue Jan  3 11:27:43 2023
+[*]
+[dumpfile] "/home/kennedn/Projects/apio/icestick/projects/button_counter_debounce/button_counter_debounce_tb.vcd"
+[dumpfile_mtime] "Tue Jan  3 11:26:15 2023"
+[dumpfile_size] 14255
+[savefile] "/home/kennedn/Projects/apio/icestick/projects/button_counter_debounce/button_counter_debounce_tb.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-23.000000 6920000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] button_counter_debounce_tb.
+[sst_width] 227
+[signals_width] 102
+[sst_expanded] 1
+[sst_vpaned_height] 149
+@28
+button_counter_debounce_tb.counter1.button
+button_counter_debounce_tb.counter1.clock
+button_counter_debounce_tb.counter1.div_clock
+@22
+button_counter_debounce_tb.counter1.led[4:0]
+@28
+button_counter_debounce_tb.counter1.reset
+button_counter_debounce_tb.counter1.state
+[pattern_trace] 1
+[pattern_trace] 0

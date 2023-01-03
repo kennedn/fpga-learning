@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Mon Jan  2 23:20:16 2023
+[*]
+[dumpfile] "/home/kennedn/Projects/apio/icestick/projects/test_bench/clock_divider_tb.vcd"
+[dumpfile_mtime] "Mon Jan  2 23:15:06 2023"
+[dumpfile_size] 4158
+[savefile] "/home/kennedn/Projects/apio/icestick/projects/test_bench/clock_divider_tb.gtkw"
+[timestart] 0
+[size] 1920 1052
+[pos] -461 -200
+*-18.000000 541710 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] clock_divider_tb.
+[sst_width] 227
+[signals_width] 199
+[sst_expanded] 1
+[sst_vpaned_height] 306
+@28
+clock_divider_tb.uut.clock
+@22
+clock_divider_tb.uut.counter[24:0]
+@29
+clock_divider_tb.uut.out
+@28
+clock_divider_tb.uut.reset
+[pattern_trace] 1
+[pattern_trace] 0
